@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1031842900537",
+    "project_id": "scan-vacuna",
+    "storage_bucket": "scan-vacuna.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031842900537:android:929aa3a8cf3cfa0129fbe8",
+        "android_client_info": {
+          "package_name": "com.example.sign_with_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031842900537-i8ic54rcd5q06quvaer9e8pugf1sg1hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_with_google",
+            "certificate_hash": "8db57356f56870e07dd59ef4825ce7a814fea5df"
+          }
+        },
+        {
+          "client_id": "1031842900537-4puidpp57hd8hdrghphgfci3hg02rau3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6yhR06mqI7kmESvpbuCh8Ma-OTK1lbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031842900537-4puidpp57hd8hdrghphgfci3hg02rau3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031842900537-epk3bds162qe0vfmi08isgrpa63rt1nn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signWithGoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
