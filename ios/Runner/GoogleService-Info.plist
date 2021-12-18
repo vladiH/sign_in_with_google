@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1031842900537-epk3bds162qe0vfmi08isgrpa63rt1nn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1031842900537-epk3bds162qe0vfmi08isgrpa63rt1nn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAWp4ey7S-Na7EIcnRffza3jKP5Pu1RqP4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1031842900537</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.signWithGoogle</string>
+	<key>PROJECT_ID</key>
+	<string>scan-vacuna</string>
+	<key>STORAGE_BUCKET</key>
+	<string>scan-vacuna.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1031842900537:ios:5076f2d972656d8e29fbe8</string>
+</dict>
+</plist>
