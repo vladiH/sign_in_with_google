@@ -5,15 +5,15 @@ Flutter configuration to deal Google sign in authentication. 
 
 1. Open [Firebase console](https://console.firebase.google.com/) and create a new project.
 2. Choose one of them(android, ios or web).<br>
-![](../sign-in/1.png)
+![](./sign-in/1.PNG)
 3. Depending on the platform, follow the instructions below.
 
 ### Setup for Android
 More info in `<google_sign_in>` : <https://pub.dev/packages/google_sign_in>.
 1. Configuration screen is shows and register your application as the next picture.<br>
-![](../sign-in/5.png)
+![](./sign-in/5.PNG)
 2. Copy project id from **android>app>src>main>AndroidManifest.xml** in **A**. <br>
-![](../sign-in/3.png)
+![](./sign-in/3.PNG)
 3. Put application name in **B**
 4. Go to project's android directory, then run the following command in the terminal and copy the first generated sha1 key in **C**.<br>
 ```sh
@@ -26,7 +26,7 @@ More info in `<google_sign_in>` : <https://pub.dev/packages/google_sign_in>.
 ### Setup for IOS
 More info in `<google_sign_in>` : <https://pub.dev/packages/google_sign_in>
 1. Configuration screen is shows and register your application as the next picture.<br>
-![](../sign-in/6.png)
+![](./sign-in/6.PNG)
 2. Copy project id from **ios\Runner.xcodeproj\project.pbxproj** (PRODUCT_BUNDLE_IDENTIFIER) in **A**. <br>
 3. Put application name in **B**
 4. Make sure the file you download in step 1 is named GoogleService-Info.plist.
@@ -58,7 +58,7 @@ More info in `<google_sign_in>` : <https://pub.dev/packages/google_sign_in>
 ### Warning
 If authentication doesn't work, go to  [Google Developers Console](https://console.cloud.google.com/apis/dashboard), select project and **OAuth consent screen**<br>
 
-![](../sign-in/7.png)
+![](./sign-in/7.PNG)
 
 After that, choose an option according to your requirements and follow the instructions.
 
